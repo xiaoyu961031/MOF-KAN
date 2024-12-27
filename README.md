@@ -12,5 +12,5 @@ MOF-KAN represents the first application of KAN in MOF research, offering unpara
 ## Datasets
 For each model the accompanied data are available at https://zenodo.org/records/14554084
 
-## Reference
+## Under construction..
 Upcoming...
