@@ -1,4 +1,4 @@
-# MOF-KAN: Kolmogorov-Arnold Networks for Digital Metal-Organic Framework Discovery
+# MOF-KAN: Kolmogorov-Arnold Networks for Digital Discovery of Metal-Organic Framework
 
 ## Overview
 Welcome to the official repository for **MOF-KAN**, a framework leveraging Kolmogorov-Arnold Networks (KAN) for the digital discovery of Metal-Organic Frameworks (MOFs). 
