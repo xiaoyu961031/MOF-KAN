@@ -3,7 +3,7 @@
 
 ## Overview
 Welcome to the official repository for **MOF-KAN**, a framework leveraging **Kolmogorov-Arnold Networks (KAN)** for the digital discovery of Metal-Organic Frameworks (MOFs). 
-MOF-KAN represents the first application of KAN in MOF research, offering comparable accuracy and efficiency than tradition Multilayer Perceptron (MLP) in navigating the diverse chemical and structural landscapes of MOFs. 
+**MOF-KAN** represents the first application of **KAN** in MOF research, offering comparable accuracy and efficiency than tradition Multilayer Perceptron (MLP) in navigating the diverse chemical and structural landscapes of MOFs. 
 
 ## Prerequsite
 - tfkan
@@ -14,7 +14,7 @@ MOF-KAN represents the first application of KAN in MOF research, offering compar
 To reproduce each model under Fine-tuned-models/, please download the accompanied data available at https://zenodo.org/records/14619370
 
 ## Build your own MOF-KAN
-To set up your MOF-KAN framework, navigate to the Experiments/ directory. This directory contains all the essential modules for customizing and building your MOF-KAN model. Below is an explanation of the subdirectories and the corresponding steps:
+To set up your **MOF-KAN** framework, navigate to the Experiments/ directory. This directory contains all the essential modules for customizing and building your MOF-KAN model. Below is an explanation of the subdirectories and the corresponding steps:
 
 **Step 1**. 0_layer/
 This folder is designed for tuning the layer structures of your KAN model. It allows you to experiment with:
@@ -23,7 +23,7 @@ This folder is designed for tuning the layer structures of your KAN model. It al
 - The number of layers in the network.
 
 **Step 2**. 1_embedding/
-This folder is dedicated to fine-tuning the embedding layers of your KAN model. Embedding layers are critical for representing categorical or structural data in a way that the model can interpret using:
+This folder is dedicated to fine-tuning the embedding layers of your **KAN** model. Embedding layers are critical for representing categorical or structural data in a way that the model can interpret using:
 - Transformer.
 - attention.
 - BiGRU.
