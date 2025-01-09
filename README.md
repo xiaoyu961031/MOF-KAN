@@ -1,4 +1,4 @@
-# MOF-KAN: Kolmogorov-Arnold Networks for Digital Discovery of Metal-Organic Framework
+# MOF-KAN: Kolmogorov-Arnold Networks for Digital Discovery of Metal-Organic Frameworks
 ![image](https://github.com/xiaoyu961031/MOF-KAN/blob/main/toc.jpg)
 
 ## Overview
