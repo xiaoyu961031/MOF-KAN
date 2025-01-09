@@ -10,7 +10,7 @@ MOF-KAN represents the first application of KAN in MOF research, offering compar
 - tensorflow>=2.10.0,<=2.15.1
 
 ## Datasets
-For each model the accompanied data are available at https://zenodo.org/records/14554084
+For each model the accompanied data are available at https://zenodo.org/records/14619370
 
 ## Under construction..
 Upcoming...
