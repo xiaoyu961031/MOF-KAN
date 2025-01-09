@@ -1,0 +1,9 @@
+Evaluating MLP Regressor...
+MLP Regressor Evaluation:
+Best Parameters: {'activation': 'tanh', 'alpha': 0.001, 'hidden_layer_sizes': (128, 128, 128)}
+Mean Absolute Error (MAE) on test set: 29.623609859356794
+Mean Squared Error (MSE) on test set: 2285.937747806612
+----------------------------------------
+Training predictions saved to MLP_Regressor_train_predictions.csv
+Test predictions saved to MLP_Regressor_test_predictions.csv
+==================================================

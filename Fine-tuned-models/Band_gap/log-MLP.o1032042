@@ -1,0 +1,9 @@
+Evaluating MLP Regressor...
+MLP Regressor Evaluation:
+Best Parameters: {'activation': 'relu', 'alpha': 0.001, 'hidden_layer_sizes': (512, 512, 512)}
+Mean Absolute Error (MAE) on test set: 0.49201263587241456
+Mean Squared Error (MSE) on test set: 0.4479038508916682
+----------------------------------------
+Training predictions saved to MLP_Regressor_train_predictions.csv
+Test predictions saved to MLP_Regressor_test_predictions.csv
+==================================================
