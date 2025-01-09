@@ -23,7 +23,15 @@ This folder is designed for tuning the layer structures of your KAN model. It al
 
 **Step 2**. 1_embedding/
 This folder is dedicated to fine-tuning the embedding layers of your KAN model. Embedding layers are critical for representing categorical or structural data in a way that the model can interpret using:
-Transformer, attention, BiGRU, BiLSTM, cnn, GRU, LSTM, ResNet, TCN
+- Transformer.
+- attention.
+- BiGRU.
+- BiLSTM.
+- cnn.
+- GRU.
+- LSTM.
+- ResNet.
+- TCN.
 
 **Step 3**. 2_baseline/
 Once the optimal layer structure (Step 1) and embedding configurations (Step 2) have been established, proceed to compare your KAN model with traditional architectures. This folder contains baseline models using Multilayer Perceptron (MLP). Ensure the same layer structure optimized in Step 1 is employed for a fair comparison.
