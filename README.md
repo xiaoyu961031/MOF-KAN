@@ -10,7 +10,7 @@ MOF-KAN represents the first application of KAN in MOF research, offering compar
 - tensorflow>=2.10.0,<=2.15.1
 
 ## Datasets
-To reproduce each model under Fine-tuned-models, please download the accompanied data available at https://zenodo.org/records/14619370
+To reproduce each model under Fine-tuned-models/, please download the accompanied data available at https://zenodo.org/records/14619370
 
 ## Build your own MOF-KAN
 To set up your MOF-KAN framework, navigate to the Experiments/ directory. This directory contains all the essential modules for customizing and building your MOF-KAN model. Below is an explanation of the subdirectories and the corresponding steps:
