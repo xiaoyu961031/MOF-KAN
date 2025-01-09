@@ -14,10 +14,10 @@ Welcome to the official repository for **MOF-KAN**, a framework leveraging **Kol
 To reproduce each model under Fine-tuned-models/, please download the accompanied data available at https://zenodo.org/records/14619370
 
 ## Build your own MOF-KAN
-To set up your **MOF-KAN** framework, navigate to the Experiments/ directory. This directory contains all the essential modules for customizing and building your MOF-KAN model. Below is an explanation of the subdirectories and the corresponding steps:
+To set up your **MOF-KAN** framework, navigate to the Experiments/ directory. This directory contains all the essential modules for customizing and building your **MOF-KAN** model. Below is an explanation of the subdirectories and the corresponding steps:
 
 **Step 1**. 0_layer/
-This folder is designed for tuning the layer structures of your KAN model. It allows you to experiment with:
+This folder is designed for tuning the layer structures of your **KAN** model. It allows you to experiment with:
 - The number of neurons in each layer.
 - The shape of layers.
 - The number of layers in the network.
