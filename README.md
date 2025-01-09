@@ -19,7 +19,7 @@ To set up your MOF-KAN framework, navigate to the Experiments/ directory. This d
 **Step 1**. 0_layer/
 This folder is designed for tuning the layer structures of your KAN model. It allows you to experiment with:
 - The number of neurons in each layer.
-- The shape of layers
+- The shape of layers.
 - The number of layers in the network.
 
 **Step 2**. 1_embedding/
