@@ -2,7 +2,7 @@
 ![image](https://github.com/xiaoyu961031/MOF-KAN/blob/main/toc.jpg)
 
 ## Overview
-Welcome to the official repository for **MOF-KAN**, a framework leveraging Kolmogorov-Arnold Networks (KAN) for the digital discovery of Metal-Organic Frameworks (MOFs). 
+Welcome to the official repository for **MOF-KAN**, a framework leveraging **Kolmogorov-Arnold Networks (KAN)** for the digital discovery of Metal-Organic Frameworks (MOFs). 
 MOF-KAN represents the first application of KAN in MOF research, offering comparable accuracy and efficiency than tradition Multilayer Perceptron (MLP) in navigating the diverse chemical and structural landscapes of MOFs. 
 
 ## Prerequsite
