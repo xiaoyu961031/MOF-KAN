@@ -1,5 +1,5 @@
 # MOF-KAN: Kolmogorov-Arnold Networks for Digital Discovery of Metal-Organic Framework
-![image]([https://github.com/ZhiliangMa/MPU6500-HMC5983-AK8975-BMP280-MS5611-10DOF-IMU-PCB/blob/main/img/IMU-V5-TOP.jpg](https://github.com/xiaoyu961031/MOF-KAN/blob/main/toc.jpg))
+![image](https://github.com/xiaoyu961031/MOF-KAN/blob/main/toc.jpg)
 
 ## Overview
 Welcome to the official repository for **MOF-KAN**, a framework leveraging Kolmogorov-Arnold Networks (KAN) for the digital discovery of Metal-Organic Frameworks (MOFs). 
