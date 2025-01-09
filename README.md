@@ -35,7 +35,7 @@ This folder is dedicated to fine-tuning the embedding layers of your **KAN** mod
 - TCN.
 
 **Step 3**. 2_baseline/
-Once the optimal layer structure (Step 1) and embedding configurations (Step 2) have been established, proceed to compare your KAN model with traditional architectures. This folder contains baseline models using Multilayer Perceptron (MLP). Ensure the same layer structure optimized in Step 1 is employed for a fair comparison.
+Once the optimal layer structure (Step 1) and embedding configurations (Step 2) have been established, proceed to compare your **MOF-KAN** model with traditional architectures. This folder contains baseline models using Multilayer Perceptron (MLP). Ensure the same layer structure optimized in Step 1 is employed for a fair comparison.
 
 ## References
 Our paper is under publication process: Xiaoyu Wu, Xianyu Song, Yifei Yue, Rui Zheng, and Jianwen Jiang. MOF-KAN: Kolmogorov-Arnold Networks for Digital Discovery of Metal-Organic Frameworks.
