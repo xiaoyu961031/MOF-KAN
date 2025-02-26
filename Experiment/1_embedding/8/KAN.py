@@ -39,7 +39,7 @@ class KAN_TCN(models.Model):
         self.dense_kan1 = DenseKAN(512)
         self.dense_kan2 = DenseKAN(512)
         self.dense_kan3 = DenseKAN(512)
-        self.dense_kan4 = DenseKAN(1)  # 假设输出为1维
+        self.dense_kan4 = DenseKAN(1) 
 
     def call(self, inputs):
         x = self.tcn(inputs)
