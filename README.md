@@ -41,4 +41,4 @@ Once the optimal layer structure (Step 1) and embedding configurations (Step 2) 
 Intepret your **MOF-KAN** model with permutation feature importance.
 
 ## References
-Our paper has been accepted by The Journal of Physical Chemistry Letter (in press): Xiaoyu Wu, Xianyu Song, Yifei Yue, Rui Zheng, and Jianwen Jiang. MOF-KAN: Kolmogorov-Arnold Networks for Digital Discovery of Metal-Organic Frameworks.
+Our paper has been accepted by The Journal of Physical Chemistry Letter: Xiaoyu Wu, Xianyu Song, Yifei Yue, Rui Zheng, and Jianwen Jiang. MOF-KAN: Kolmogorov-Arnold Networks for Digital Discovery of Metal-Organic Frameworks. https://pubs.acs.org/doi/10.1021/acs.jpclett.5c00211
